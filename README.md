@@ -90,7 +90,3 @@ source /usr/local/gromacs/bin/GMXRC
 ##  License
 
 This project is open-source and distributed under the terms of the **MIT License**.
-
-```
-
-```
