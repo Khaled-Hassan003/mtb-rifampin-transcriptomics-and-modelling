@@ -4,7 +4,7 @@
 This repository contains the complete, integrated computational workflow combining **RNA-Seq transcriptomics** and **all-atom Molecular Dynamics (MD) simulations** to investigate the systemic response of *Mycobacterium tuberculosis* H37Rv to subinhibitory Rifampin stress, with a specific focus on the structural modeling of the target protein **Rv0784**.
 ---
 
-## 👥 Authors
+## Authors
 
 * **Khaled Sabry El-Basha**
 * **Adham Srour**
