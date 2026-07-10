@@ -2,6 +2,17 @@
 # Impact of Rifampin on Gene Expression in Mycobacterium tuberculosis H37Rv: Transcriptomics and Rv0784 Molecular Modelling Analysis
 
 This repository contains the complete, integrated computational workflow combining **RNA-Seq transcriptomics** and **all-atom Molecular Dynamics (MD) simulations** to investigate the systemic response of *Mycobacterium tuberculosis* H37Rv to subinhibitory Rifampin stress, with a specific focus on the structural modeling of the target protein **Rv0784**.
+---
+
+## 👥 Authors
+
+* **Khaled Sabry El-Basha**
+* **Adham Srour**
+* **Moaaz Ahmed**
+* **Sara Saeed**
+* **Jana Mahmoud**
+* **Habiba Eraky**
+* **Alaa Mahmoud**
 
 ---
 
