@@ -4,7 +4,7 @@ This repository contains the complete, integrated computational workflow combini
 
 ---
 
-## 📂 Repository Architecture
+## Repository Architecture
 
 The pipeline is modularized into distinct operational directories for maximum reproducibility:
 
