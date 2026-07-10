@@ -15,7 +15,12 @@ This repository contains the complete, integrated computational workflow combini
 * **Alaa Mahmoud**
 
 ---
+## Acknowledgments & Supervision
 
+* **Dr. Ibrahim** — Deepest gratitude and special thanks for providing the foundational computational codes, methodology framework, and academic guidance that made this multi-omics pipeline possible.
+* **Dr. Menna** —  Deepest gratitude and special thanks for providing the foundational computational codes, methodology framework, and academic guidance that made this multi-omics pipeline possible.
+* **Dr. Mahmoud** — Sincere thanks and appreciation for his invaluable supervision, continuous support, and academic guidance throughout the project.
+* 
 ##  Repository Structure
 
 The pipeline is modularized into distinct operational directories for maximum reproducibility:
